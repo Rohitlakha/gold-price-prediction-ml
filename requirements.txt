@@ -1,0 +1,17 @@
+# Core packages
+pandas==1.5.3
+numpy==1.24.3
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Machine Learning
+scikit-learn==1.2.2
+xgboost==1.7.6
+
+# Explainability
+eli5==0.13.0
+
+# Optional (for working in Jupyter Notebooks)
+jupyter==1.0.0
