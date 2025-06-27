@@ -70,10 +70,19 @@ Sample evaluation metrics from the trained model:
 - ✅ **MAE (Mean Absolute Error):** 12.5  
 - ✅ **RMSE (Root Mean Squared Error):** 16.3  
 - ✅ **R² Score (Coefficient of Determination):** 0.89
+- 
+---
+
+  ## 🙋 Author
+
+**Rohit Lakha**  
+🔗 [LinkedIn](https://www.linkedin.com/in/rohit-lakha/) • 🔗 [GitHub](https://github.com/Rohitlakha)
+
+---
 
 📌 *These results reflect strong model performance, indicating good predictive capability on unseen data.*
 
-
+⭐ *Star this repo if you find it helpful or interesting!*
 
 
 
