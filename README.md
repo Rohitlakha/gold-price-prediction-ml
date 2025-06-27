@@ -29,4 +29,5 @@ This project focuses on predicting gold prices using various machine learning te
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/gold-price-prediction-ml.git
+https://github.com/Rohitlakha/gold-price-prediction-ml.git
+```
