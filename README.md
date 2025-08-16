@@ -1,27 +1,44 @@
-# 🧠 Gold Price Prediction using Machine Learning
+# 🧠 Gold Price Prediction using Machine Learning  
 
-This project focuses on predicting gold prices using various machine learning techniques such as **Linear Regression**, **Lasso Regression**, **Random Forest**, and **XGBoost**. It includes data preprocessing, outlier detection, feature scaling, model evaluation, and model explainability using **ELI5**.
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat&logo=python&logoColor=white)  
+![ML](https://img.shields.io/badge/Machine_Learning-ScikitLearn-orange?style=flat&logo=scikit-learn&logoColor=white)  
+![XGBoost](https://img.shields.io/badge/Boosting-XGBoost-red?style=flat&logo=xgboost&logoColor=white)  
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow?style=flat)  
+![Status](https://img.shields.io/badge/Project-Educational-brightgreen?style=flat)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohit-lakha/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Rohitlakha)  
 
----
-
-## 📌 Project Highlights
-
-- 📂 End-to-end ML workflow from raw data to deployment
-- 📉 Outlier detection using IQR and visualization with boxplots
-- ⚖️ Feature scaling using StandardScaler
-- 🧠 Models used: Linear, Lasso, Random Forest, XGBoost
-- 📊 Model explainability with ELI5
-- 💾 Model saved and deployed using Pickle
+This project aims to **predict gold prices** using various machine learning techniques such as **Linear Regression**, **Lasso Regression**, **Random Forest**, and **XGBoost**. It demonstrates a complete ML pipeline — from data preprocessing and feature engineering to model evaluation, explainability, and deployment.  
 
 ---
 
-## 🔧 Technologies Used
+## 🎯 Project Objectives  
 
-- Python 🐍
-- Pandas, NumPy, Scikit-learn
-- XGBoost, ELI5
-- Matplotlib, Seaborn
-- Jupyter Notebook
+- ✅ Build a robust **end-to-end ML pipeline** for gold price prediction  
+- ✅ Perform **data preprocessing** (missing values, scaling, outlier detection)  
+- ✅ Train and evaluate **multiple ML models**  
+- ✅ Explain model predictions with **ELI5**  
+- ✅ Save and deploy model using **Pickle**  
+
+---
+
+## 📌 Project Highlights  
+
+- 📂 End-to-end ML workflow from raw data to deployment  
+- 📉 Outlier detection using **IQR** & boxplot visualization  
+- ⚖️ Feature scaling with **StandardScaler**  
+- 🧠 Models used: Linear Regression, Lasso Regression, Random Forest, XGBoost  
+- 📊 Model explainability with **ELI5**  
+- 💾 Deployment-ready model saved with **Pickle**  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Programming:** Python 🐍  
+- **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, ELI5  
+- **Visualization:** Matplotlib, Seaborn  
+- **Environment:** Jupyter Notebook  
 
 ---
 
