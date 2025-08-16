@@ -1,12 +1,6 @@
 # 🧠 Gold Price Prediction using Machine Learning  
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat&logo=python&logoColor=white)  
-![ML](https://img.shields.io/badge/Machine_Learning-ScikitLearn-orange?style=flat&logo=scikit-learn&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/Boosting-XGBoost-red?style=flat&logo=xgboost&logoColor=white)  
-![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow?style=flat)  
-![Status](https://img.shields.io/badge/Project-Educational-brightgreen?style=flat)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohit-lakha/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Rohitlakha)  
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat&logo=python&logoColor=white)  ![ML](https://img.shields.io/badge/Machine_Learning-ScikitLearn-orange?style=flat&logo=scikit-learn&logoColor=white)  ![XGBoost](https://img.shields.io/badge/Boosting-XGBoost-red?style=flat&logo=xgboost&logoColor=white)  ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-yellow?style=flat)  ![Status](https://img.shields.io/badge/Project-Educational-brightgreen?style=flat)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohit-lakha/)  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Rohitlakha)  
 
 This project aims to **predict gold prices** using various machine learning techniques such as **Linear Regression**, **Lasso Regression**, **Random Forest**, and **XGBoost**. It demonstrates a complete ML pipeline — from data preprocessing and feature engineering to model evaluation, explainability, and deployment.  
 
